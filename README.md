@@ -1,7 +1,7 @@
-Nmap Vulnerability Scanner
+**Nmap Vulnerability Scanner**
 A simple vulnerability scanning script built on Kali Linux using Nmap to identify open ports and known vulnerabilities on a target system.
 
-📖 Project Overview
+**📖 Project Overview**
 This project automates basic network scanning tasks, combining service detection and vulnerability script scanning (nmap --script vuln) to help identify potential security risks in target machines or networks.
 
 It is designed to:
@@ -14,16 +14,13 @@ Run vulnerability detection scripts from Nmap's NSE library.
 
 Output the results into an organized report format.
 
-🛠 Technologies Used
-Kali Linux
+**🛠 Technologies Used**
+1. Kali Linux
+2. Nmap (Network Mapper)
+3.Bash / Linux Terminal
 
-Nmap (Network Mapper)
-
-Bash / Linux Terminal
-
-🚀 How to Use
+**🚀 How to Use**
 Clone or download the repository.
-
 Ensure you have nmap installed:
 
 bash
@@ -57,21 +54,18 @@ Organized output files for easy analysis.
 
 Beginner-friendly project ideal for those learning penetration testing and reconnaissance.
 
-⚠️ Legal Disclaimer
+**⚠️ Legal Disclaimer**
 This project is intended ONLY for educational purposes or authorized penetration testing.
 Unauthorized scanning of networks that you do not own or have explicit permission to test is illegal and unethical.
 
-📸 Example Output
-(You can include actual screenshots if you want, but here’s a placeholder:)
 
-
-🤝 Contribution
+**🤝 Contribution**
 Pull requests are welcome!
 If you have ideas for improvements, feel free to fork the project and submit a PR.
-
-📧 Contact
-Created with 💻 by Maureen Rita Muriuki
+**
+📧 Contact**
+Created with 💻 by** Maureen Rita Muriuki**
 Feel free to reach out for collaboration or feedback!
 
-⭐️ Show your support
+**⭐️ Show your support**
 If you found this project helpful, give it a ⭐️ on GitHub! It helps others find it too!
